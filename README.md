@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently working on **Web and app development**
 
-- 👨‍💻 All of my projects are available at [https://bidhann.live](https://bidhann.live)
+- 👨‍💻 All of my projects are available at [https://bidhanniroula.com.np](https://bidhanniroula.com.np)
 
 - 📫 How to reach me **88bidhanniroula@gmail.com**
 
